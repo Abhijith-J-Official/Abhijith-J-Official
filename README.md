@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijith-J-Official
 - 👀 I’m interested in programming..
-- 🌱 I’m currently persuing Btech-ECE
+- 🌱 I’m currently pursuing Btech-ECE
  
 
 <!---
